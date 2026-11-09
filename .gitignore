@@ -1,2 +1,7 @@
 # Ignore Visual Studio Code settings folder
 .vscode
+
+# Ignore object files and build output
+*.obj
+*.o
+*.exe
